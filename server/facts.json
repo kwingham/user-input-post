@@ -1,0 +1,42 @@
+[
+  {
+    "topic": "Astronomy",
+    "fact": " A day on Venus is longer than a year. It takes Venus about 243 Earth days to rotate once on its axis, but only about 225 Earth days to complete an orbit around the Sun"
+  },
+  {
+    "topic": "Biology",
+    "fact": "Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body"
+  },
+  {
+    "topic": "History",
+    "fact": "Cleopatra lived closer in time to the moon landing than to the construction of the Great Pyramid of Giza. The Great Pyramid was completed around 2560 B.C., while Cleopatra ruled around 30 B.C"
+  },
+  {
+    "topic": "Technology",
+    "fact": "The first 1GB hard drive, released by IBM in 1980, weighed over 500 pounds and cost $40,000"
+  },
+  {
+    "topic": "Geography",
+    "fact": "Canada has the longest coastline of any country in the world, stretching over 125,000 miles"
+  },
+  {
+    "topic": "Literature",
+    "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes"
+  },
+  {
+    "topic": "Physics",
+    "fact": "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth"
+  },
+  {
+    "topic": "Food",
+    "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible"
+  },
+  {
+    "topic": "Animal Behavior",
+    "fact": "Cows have best friends and can become stressed when they are separated from them"
+  },
+  {
+    "topic": "Music",
+    "fact": " The longest musical performance ever began in 2001 in a church in Germany and is scheduled to end in the year 2640, playing John Cage's composition \"As Slow as Possible.\""
+  }
+]

@@ -8,7 +8,7 @@ async function handleSubmit(event) {
   const data = Object.fromEntries(formData);
 
   // call our API
-  const response = await fetch("http://localhost:8080/joke", {
+  const response = await fetch("http://localhost:8080/fact", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
